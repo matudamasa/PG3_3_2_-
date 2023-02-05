@@ -23,6 +23,7 @@ void Enemy::SetDeath()
 {
     isAlive = false;
     isAllAlive = false;
+
 }
 
 void Enemy::Update()
